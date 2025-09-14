@@ -1,0 +1,1 @@
+everything seems to be wrong as of now. The entropy is proper, key sensitivity needs fix, hyperparameter and calculation methods of alice, bob, eve need to be reworked.

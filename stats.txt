@@ -1,0 +1,4 @@
+Epoch 1975 | H=0.9998 | Bob=0.4996 | Eve=0.7670 | KeySens=0.263
+    Alice: H-Loss=0.0326 KeyDep-Loss=0.0845 | LRs: A/B=0.00356 E=0.00005
+    Target-H=0.980 | EveRatio=2 | Consistency=0.245
+

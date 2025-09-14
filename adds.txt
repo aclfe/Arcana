@@ -1,0 +1,2 @@
+I'll attach the ipynb alongside a gui implementation of this (who doesn't like GUIs?) ((though I'm a huge fan of terminals too :) ))
+
